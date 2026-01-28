@@ -1,0 +1,15 @@
+input {
+    display: block;
+}
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+}
+footer {
+    text-align:center;
+}
+img {
+    max-width: 1200px;
+}
